@@ -10,3 +10,4 @@ redis==4.6.0
 SQLAlchemy==2.0.17
 starlette==0.27.0
 uvicorn==0.22.0
+pymysql==1.0.3
